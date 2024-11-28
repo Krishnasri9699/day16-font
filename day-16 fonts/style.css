@@ -1,0 +1,54 @@
+#mainHeading{
+    background-color: orangered;
+    border: 10px solid black;
+    box-shadow: 10px 10px 10px black;
+
+}
+
+
+.ministers{
+    width: 300px;
+    height: 300px;
+    border: 10px solid black;
+
+}
+#modiHeading{
+    font-size: 3rem;
+}
+
+#rajnathSingHeading{
+    font-size: 48px;
+    font-style:normal;
+}
+#amitShaheading{
+    font-size: 3rem;
+    font-style: oblique;
+}
+#gadkariHeading{
+    font-size: 48px ;
+    font-style: inherit;
+}
+#JPNadaHeading{
+    font-size:3rem ;
+    font-style: italic;
+}
+#modiDescription{
+    font-size: 1rem;
+    font-family: 'Courier New', Courier, monospace;
+}
+#RajnathSinghDescription{
+    font-size:1rem ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#amitShahDescription{
+    font-size: 1rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+#gadkariDescription{
+    font-size: 1rem;
+    font-family:cursive;
+}
+#JPNadaDescription{
+    font-size: 1rem;
+    font-family: fantasy;
+}
